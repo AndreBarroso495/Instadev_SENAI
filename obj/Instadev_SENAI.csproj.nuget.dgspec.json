@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Desktop\\Trabalhos Senai\\Instadev_SENAI\\Instadev_SENAI.csproj": {}
+    "C:\\Users\\fic\\Desktop\\Andre\\Instadev_SENAI\\Instadev_SENAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Desktop\\Trabalhos Senai\\Instadev_SENAI\\Instadev_SENAI.csproj": {
+    "C:\\Users\\fic\\Desktop\\Andre\\Instadev_SENAI\\Instadev_SENAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Trabalhos Senai\\Instadev_SENAI\\Instadev_SENAI.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Andre\\Instadev_SENAI\\Instadev_SENAI.csproj",
         "projectName": "Instadev_SENAI",
-        "projectPath": "C:\\Users\\andre\\Desktop\\Trabalhos Senai\\Instadev_SENAI\\Instadev_SENAI.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Desktop\\Trabalhos Senai\\Instadev_SENAI\\obj\\",
+        "projectPath": "C:\\Users\\fic\\Desktop\\Andre\\Instadev_SENAI\\Instadev_SENAI.csproj",
+        "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\Andre\\Instadev_SENAI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
