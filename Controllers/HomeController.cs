@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Instadev_SENAI.Models;
+//using Instadev_SENAI.Models;
 
 namespace Instadev_SENAI.Controllers
 {
