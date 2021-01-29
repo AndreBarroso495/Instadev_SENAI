@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 
+
 /*CABEÇALHO*/
 
 
@@ -13,8 +14,8 @@
 .logo{
     height: 42px;
     position: relative;
-    left: 168px;
-    bottom: -36px;
+    left: -790px;
+    bottom: -5px;
 }
 
 .cabecalho{
@@ -39,7 +40,7 @@
 
 .search{
     position: relative;
-    left: -483px;
+    left: -627px;
     bottom: 6px;
 }
 
@@ -214,8 +215,8 @@
 }
 
 .search3{
-    bottom: 404px;
-    left: 439px;
+    bottom: 369px;
+    left: 165px;
     background: #D1D1D1;
     text-align: center;
     height: 34px;
@@ -231,8 +232,8 @@
 
 .Postar{
     position: relative;
-    bottom: 405px;
-    left: 446px;
+    bottom: 368px;
+    left: 190px;
     background: #2686CC;
     text-align: center;
     height: 34px;
@@ -240,6 +241,7 @@
     font-size: 20px;
     color: white;
     border: white;
+
 }
 
 
