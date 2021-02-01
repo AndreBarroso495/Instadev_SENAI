@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clear{
+    clear: both;
+}
+
+.telefone{
+    padding-top: 70px;
+    height: 510px;
+    float: left;
+    margin: 10px;
+    padding-left: 200px;
+}
+
+body{
+    background-color: #fafafa!important;
+}
+
+.contem{
+    margin-top: 20px;
+}
+
+.coluna-direita{
+    float: right;
+    background: #fff;
+    border: 1px solid #cccccc;
+    width: 342px;
+    margin-top: 100px;
+    padding: 20px;
+    margin-right: 200px;
+}
+
+.logo-instadev{
+    margin: 15px 100px;
+}
+
+
+a{
+    text-decoration: none;
+    color: #358cb4;
+    display: block;
+    text-align: center;
+}
+
+a :first-child{
+    margin-top: 0px;
+}
+
+.line-title{
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+.ln1{
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    top: 30px;
+    background-color: #efefef;
+}
+
+.line-title h2{
+    position: relative;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 20px 5%;
+    text-transform: uppercase;
+    color: #999;
+}
+
+input[type=text],
+input[type=password]{
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    margin-top: 5px;
+    border: 1px solid #999;
+    background-color: #f8f8f8;
+    font-size: 12px;
+}
+
+::placeholder{
+    padding-left: 10px;
+}
+
+.button{
+    margin: 10px auto;
+    font-size: 13px;
+    position: relative;
+    top: 5px;
+    display: block;
+    border-radius: 2px;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    background-color: #3897fe;
+    color: white;
+    border: 1px solid #dcdcdc;
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.button:hover{
+    opacity: 1;
+}
+
+.coluna-direita-login{
+    float: right;
+    background: #fff;
+    border: 1px solid #cccccc;
+    width: 342px;
+    margin: 10px;
+    padding: 20px;
+    margin-right: 200px;
+}
+
+p{
+    display: inline;
+    text-align: center;
+    margin: 0 50px;
+}
+
+.coluna-direita-login a{
+    display: inline;
+    text-align: center;
+}
+
+.foo{
+    float: right;
+    margin-right: 250px;
+}
+
+.po{
+    text-align: center;
+    font-size: 12px;
+    color: #000000;
+    height: 16px;
+    margin: 0 100px;
+}
+
+.loja{
+    position: absolute;
+    display: flex;
+    margin: 1px;
+    margin-left:25px;
+}
+
+.loja1{
+    position: absolute;
+    display: flex;
+    margin: 1px;
+    margin-left:165px ;
+}
+
