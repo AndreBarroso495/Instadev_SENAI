@@ -77,3 +77,4 @@ C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Instadev_SENAI.dll
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\ref\Instadev_SENAI.dll
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Instadev_SENAI.genruntimeconfig.cache
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Instadev_SENAI.csproj.CopyComplete
+C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Razor\Views\EditarPerfil\Index.cshtml.g.cs

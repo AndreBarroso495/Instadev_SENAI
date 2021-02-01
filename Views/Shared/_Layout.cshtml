@@ -1,27 +1,25 @@
 ﻿<!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css' type='text/css'>
-        <script src="https://kit.fontawesome.com/2faae0d38b.js" crossorigin="anonymous"></script>
-        <link rel="stylesheet" href="../wwwroot/css/styleEdiPerfil.css">
-        <title>InstaDev</title>
-    </head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Instadev_SENAI</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/2faae0d38b.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/css/styleEdiPerfil.css" />
 </head>
 <body>
-    <header>
-        <header class="topo"></header>
-            <body><div class="container">
+    <header class="topo">
+        <div class="container">
                 <div class="logo">
                     <a href="#"><img src="../wwwroot/Images/Instadev.svg" alt="Logo do InstaDev"></a>
-                </div> <!--Fim do Logo -->
+                 </div> <!--Fim do Logo -->
                     <div class="pesquisa">                        
                         <input class="camp" type="text" placeholder="&#xF002; Pesquisar" value="" tabindex="1" autocomplete="off">
-                    </div> <!--Fim da Pesquisa -->
+                     </div> <!--Fim da Pesquisa -->
                 <nav class="menu"> 
                     <ul class="icons">
                         <il><a href="#"><i class="fas fa-home" style="font-size:25px;color:black"></i> </a></il>
@@ -30,24 +28,14 @@
                         <il><a href="#"><i class="far fa-heart" style="font-size:25px;color:black"></i> </a></il>
                         <il><a href="#"><i class="fas fa-user-circle" style="font-size:27px;color:black"></i> </a></il>
                     </ul>
-                </nav>
-            </body>
+                </nav>    
         </div>
-    </header>    
-</body>
-       
-    </header>
+    </header> 
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2021 - Instadev_SENAI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
