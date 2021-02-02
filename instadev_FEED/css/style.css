@@ -1,0 +1,292 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+
+/*CABEÇALHO*/
+
+
+
+
+
+
+.logo{
+    height: 42px;
+    position: relative;
+    left: -790px;
+    bottom: -5px;
+}
+
+.cabecalho{
+    background-color: #ffffff;
+    bottom: 28px;
+    left: -10px;
+    height: 97px;
+    position: relative;
+}
+
+
+
+
+.pesquisa{
+    position: relative;
+    left: 512px;
+    bottom: 28px;
+    height: 25px;
+    width: 250px;
+}
+
+
+.search{
+    position: relative;
+    left: -627px;
+    bottom: 6px;
+}
+
+.icones{
+    justify-content: flex-end;
+    position: relative;
+    left: 900px;
+    display: inline;
+}
+
+.home{
+    position: relative;
+    right: -42px;
+}
+    
+
+
+.plane{
+    position: relative;
+    right: -69px
+
+}
+
+.compass{
+    position: relative;
+    right: -97px;
+    bottom: 0px;
+}
+
+
+
+.vector{
+    position: relative;
+    right: -127px;
+
+}
+
+.keanu{
+
+    position: relative;
+    right: -155px;
+    bottom: -4px;
+
+} 
+/* FIM DO CABEÇALHO */
+
+
+
+/* COMEÇO DO STATUS */
+
+
+
+.status{
+
+    position: relative;
+    left: 80px;
+    bottom: -66px;
+    background-color: #ffffff;
+    height: 103px;
+    width: 777px;
+}
+
+.vin{
+    position: relative;
+    left: 70px;
+    bottom: -13px;
+    
+}
+.gabi{
+     position: relative;
+    left: 175px;
+    bottom: 105px;
+}
+.will{
+    position: relative;
+    left: 281px;
+    bottom: 221px;
+}
+
+.tony{
+    position: relative;
+    left: 387px;
+    bottom: 337px;
+}
+
+    
+.pele{
+    left: 500px;
+    position: relative;
+    bottom: 452px;
+
+}
+.chaves{
+    position: relative;
+    left: 605px;
+    bottom: 635px;
+}  
+.status p{
+    font-family: 'Lato', sans-serif;
+    
+}
+
+/* FIM DO STATUS */
+
+
+/* COMEÇO DO PERFIL */
+
+.perfil{
+    position: relative;
+    left: 920px;
+    bottom: 55px;
+    height: 120px;
+    width: 250px;
+    
+
+}
+
+
+.perfil p{
+    font-family: 'Lato', sans-serif;
+}
+
+.sugestoes{
+    background-color: rgb(243, 243, 243);
+    width: 387px;
+    height: 300px;
+    left: 915px;
+    position: relative;
+}
+
+
+
+.DV{
+    position: relative;
+    left: 20px;
+    bottom: -15px;
+    height: 40px;
+}
+
+    /* fim do PERFIL */
+
+
+
+    /* começo das postagens */
+
+
+.marcos{
+    
+    position: relative;
+    left: 15px;
+    bottom: -27px;
+
+}
+
+.postar{
+    background: #ffffff;
+    height: 124px;
+    width: 776px;
+    left: 82px;
+    position: relative;
+    bottom: 302px;
+}
+.search2{
+    
+    position: relative;
+    bottom: 369px;
+    left: 179px;
+    width: 240px;
+    height: 28px;
+    border: #b1b4b7;
+
+}
+
+.search3{
+    bottom: 369px;
+    left: 165px;
+    background: #D1D1D1;
+    text-align: center;
+    height: 34px;
+    width: 203px;
+    position: relative;
+    font-size: 16px;
+    color: #5f5f5f;
+    border: lightcyan;
+}
+
+
+
+
+.Postar{
+    position: relative;
+    bottom: 368px;
+    left: 190px;
+    background: #2686CC;
+    text-align: center;
+    height: 34px;
+    width: 187px;
+    font-size: 20px;
+    color: white;
+    border: white;
+
+}
+
+
+/** fim das postagens*/
+
+/** POST*/
+
+
+
+.post1{
+    background-color: rgb(250, 250, 250);
+    position: relative;
+    left: 82px;
+    height: 827PX;
+    width: 779px;
+    bottom: 240px;
+}
+.gordo{
+    position: relative;
+    left: 20px;
+    bottom: -19px;
+}
+
+
+.post2{
+
+    position: relative;
+    left: 82px;
+    height: 820px;
+    width: 779px;
+    bottom: 125px;
+    background-color: rgb(255, 255, 255);
+}
+
+.post3{
+    position: relative;
+    left: 82px;
+    height: 755px;
+    width: 779px;
+    bottom: -175px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
