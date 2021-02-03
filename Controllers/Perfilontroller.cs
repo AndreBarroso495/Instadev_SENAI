@@ -1,3 +1,7 @@
+using System;
+using Instadev_SENAI.Models;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 namespace Instadev_SENAI.Controllers
 {
     [Route("Perfil")]
@@ -8,8 +12,8 @@ namespace Instadev_SENAI.Controllers
 
         public IActionResult Index()
         {
-            Viewbag.Perfil = perfilModel.ReadAll();
-            return view;
+            ViewBag.Perfil = perfilModel.ReadAll();
+            return View();
         }
         [Route("EditarPerfil")]
         public IActionResult EditarPerfil(IFormCollection form)

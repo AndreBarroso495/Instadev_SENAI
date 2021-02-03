@@ -38,10 +38,21 @@
 }
 
 .logo{
-    height: 27px;
+    position: absolute;
     width: 78px;
-    left: 487px;
-    top: 30em;
+    height: 27px;
+    left: 492px;
+    top: 10px;
+
+    font-family: Billabong;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+
+    color: #000000;
+
+
 
 }
 
@@ -285,7 +296,9 @@ input[type=text]{
     flex-direction: column;
     justify-content: space-around;
     /* background-color: tomato; */
-    margin-top: 3.5%;
+    margin-top: 15px;
+    
+    
 }
 
 .nome-user1{

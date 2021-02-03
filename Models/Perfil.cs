@@ -30,7 +30,7 @@ namespace Instadev_SENAI.Models
         public void Delete(Perfil p)
         {
             List<string> linhas = ReadAllLinesCSV(PATH);
-            linhas.RemoveAll(x => x.Split(";")[0] = p.Nome.ToString);
+            linhas.RemoveAll(x => x.Split(";")[0] == p.Nome);
             RewriteCSV(PATH, linhas);
         }
         public List<Perfil> ReadAll()
