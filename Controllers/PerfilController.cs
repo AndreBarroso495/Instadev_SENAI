@@ -27,5 +27,5 @@ namespace Instadev_SENAI.Controllers
 
             return LocalRedirect("~/Perfil");
         }
-    }
+    }    
 }

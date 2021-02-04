@@ -64,7 +64,6 @@ C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\scopedcss\bundle\Inst
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Instadev_SENAI.TagHelpers.input.cache
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Instadev_SENAI.TagHelpers.output.cache
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Instadev_SENAI.RazorCoreGenerate.cache
-C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -78,3 +77,4 @@ C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\ref\Instadev_SENAI.dl
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Instadev_SENAI.genruntimeconfig.cache
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Instadev_SENAI.csproj.CopyComplete
 C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Razor\Views\EditarPerfil\Index.cshtml.g.cs
+C:\Users\fic\Desktop\Andre\Instadev_SENAI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
