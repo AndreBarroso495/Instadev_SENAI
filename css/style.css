@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+
+:root{
+
+    --background: #ffffff;
+    --red: #C20000;
+    --blue: #001F70;
+    --gradient: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+
+    --font: 'Titillium Web', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: var( --font );
+    font-size: 16px;
+    background-color: var( --background );
+}
+img{
+    width: 100%;
+}
+.topo{
+    width: 100%;
+    height: 4em;
+    
+}
+.content{
+    width: 80%;
+    height: 100%;
+    max-width: 75em;
+    margin: auto;
+    
+    
+}
+.flex-center-bt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.menu{
+    width: 100%;
+    max-width: 7em;
+    
+}
+.icones{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    right: 20px;    
+}
+.home{
+    position: relative;
+    right: 80px;
+}
+.plane{
+    position: relative;
+    right: 60px;
+}
+.compass{
+    position: relative;
+    right: 40px;
+}
+.vector{
+    position: relative;
+    right: 20px;
+}
+.foto{
+    position: relative;
+    right: 0px;
+}*/
+
+
+#menu-bars{
+    display: none;
+}
+.banner{
+    width: 100%;
+    height: 300px;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    justify-items: center;
+    
+    
+}
+.banner img{
+    width: auto;
+    height: auto;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+.banner-text{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: auto;
+       
+}
+.keanu{
+    position: relative;
+    left: 370px;
+}
+.banner-text h1{
+    font-size: 2em;
+    justify-content: space-between;
+    position: relative;
+    bottom: 150px;
+    left: 300px;
+    
+       
+}
+.banner-text p{
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    margin-left: 14px;
+    color: black;
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+    
+    
+}
+.banner-text h2{
+    font-size: 1.1em;
+    margin-top: 10px;
+    margin-left: 10;
+    position: relative;
+    right: 230px;
+    bottom: 50px;
+   
+}
+.banner-text h3{
+    position: relative;
+    bottom: 42px;
+    right: 30px;
+    color: rgb(46, 221, 252);
+}
+
+.feed{
+    width: 100%;
+    height: 5em;
+    border-top: 1px solid rgba(156, 156, 156, 0.664);
+    
+}
+.feed-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+.feed h1{
+    text-transform: uppercase;
+    position: relative;
+    right: 700px;
+    top: 20px;
+}
+.feed img{
+    max-width: 1em;
+    position: relative;
+    left: 480px;
+    top: 20px;
+}
+.publicacoes{
+    width: 100%;
+    height: 800px;
+    align-items: center;
+    background-color: rgb(240, 240, 240);
+    justify-items: center;
+}
+.pub-content{
+    width: 934px;
+    height: 404px;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    justify-items: center;
+    position: relative;
+    left: 200px;
+
+}
+.pub-content img{
+    width: auto;
+    height: auto;
+}
+.foto{
+    bottom: 330px;
+    left: 50px;
+}
+.pub-content h1{
+    font-size: medium;
+    position: relative;
+    left: 570px;
+    bottom: 390px;
+}
+.pub-content h2{
+    font-size: medium;
+    position: relative;
+    left: 570px;
+    bottom: 390px;
+}
+.coracao{
+    position: relative;
+    left: 490px;
+    bottom: 360px;
+}
+.coments{
+    position: relative;
+    left: 500px;
+    bottom: 360px;
+}
+.pub-content p{
+    position: relative;
+    left: 490px;
+    bottom: 360px;
+}
+.pub-content h3{
+    position: relative;
+    left: 490px;
+    bottom: 340px;
+}
+.pub-content i{
+    position: relative;
+    left: 600px;
+    bottom: 367px;
+}
+.cora{
+    position: relative;
+    left: 760px;
+    bottom: 365px;
+}
+.pub-content sub{
+    position: relative;
+    left: 340px;
+    bottom: 200px;
+    font-size: large;
+    color: #b3b3b3;
+}
